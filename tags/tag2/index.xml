@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag2 on My Blog</title>
+    <link>https://myname.com/tags/tag2/</link>
+    <description>Recent content in tag2 on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://myname.com/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux操作系统实验-重定向与管道</title>
+      <link>https://myname.com/post/linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C-%E9%87%8D%E5%AE%9A%E5%90%91%E5%92%8C%E7%AE%A1%E9%81%93/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://myname.com/post/linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C-%E9%87%8D%E5%AE%9A%E5%90%91%E5%92%8C%E7%AE%A1%E9%81%93/</guid>
+      <description>一、实验内容和要求: Linux内核的源代码可以在https://www.kernel.org/下载，也有国内的镜像可以下载，当前最新的源代码</description>
+    </item>
+    
+    <item>
+      <title>img-test Post</title>
+      <link>https://myname.com/post/img-test/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://myname.com/post/img-test/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
